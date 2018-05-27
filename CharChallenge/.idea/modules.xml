@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Early Lessons/Early Lessons.iml" filepath="$PROJECT_DIR$/Early Lessons/Early Lessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMasterclass.iml" filepath="$PROJECT_DIR$/JavaMasterclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Early Lessons/Strings.iml" filepath="$PROJECT_DIR$/Early Lessons/Strings.iml" />
+    </modules>
+  </component>
+</project>
